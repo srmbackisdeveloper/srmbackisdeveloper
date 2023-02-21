@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## Frontend Developer
-## Computer Science student at Nazarbayev University
+#### Frontend Developer
+### Computer Science student at Nazarbayev University
 
 <!--
 Here are some ideas to get you started:
