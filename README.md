@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo 👋
 
 - 🔭 Frontend Developer | Css | React | JavaScript
 - 🌱 Computer Science student at Nazarbayev University
