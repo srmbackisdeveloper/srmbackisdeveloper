@@ -1,7 +1,7 @@
 ### Yo 👋
 
 - 💬 Syrymbek or srmback
-- 🔭 Frontend Developer | Css | React | JavaScript
+- 🔭 Developer
 - 🌱 Computer Science student at Nazarbayev University
 
 <!--
