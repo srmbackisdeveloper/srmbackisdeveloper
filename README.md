@@ -1,6 +1,6 @@
 ### Yo 👋
 
-- 💬 Syrymbek or srmback
+- 💬 rauan
 - 🔭 Developer
 - 🌱 Computer Science
 
