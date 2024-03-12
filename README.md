@@ -2,7 +2,7 @@
 
 - 💬 Syrymbek or srmback
 - 🔭 Developer
-- 🌱 Computer Science student at Nazarbayev University
+- 🌱 Computer Science
 
 <!--
 Here are some ideas to get you started:
