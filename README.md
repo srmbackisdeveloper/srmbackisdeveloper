@@ -1,6 +1,6 @@
 ### Yo 👋
 
-- 💬 rauan
+- 💬 srmbackisdeveloper
 - 🔭 Developer
 - 🌱 Computer Science
 
