@@ -1,4 +1,4 @@
-### Yo 👋
+### Hi 👋
 
 - 💬 srmbackisdeveloper
 - 🔭 Golang Backend Developer
