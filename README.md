@@ -1,7 +1,7 @@
 ### Yo 👋
 
 - 💬 srmbackisdeveloper
-- 🔭 Developer
+- 🔭 Golang Backend Developer
 - 🌱 Computer Science
 
 <!--
