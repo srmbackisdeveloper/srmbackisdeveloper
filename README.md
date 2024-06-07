@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 💬 srmbackisdeveloper
+- 💬 Syrymbek Zhumazhan
 - 🔭 Golang Backend Developer
 - 🌱 Computer Science
 
