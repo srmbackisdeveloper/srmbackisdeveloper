@@ -2,7 +2,7 @@
 
 - 💬 Syrymbek Zhumazhan
 - 🔭 Golang Backend Developer
-- Ex React Frontend Developer
+- 🔭 Ex React Frontend Developer
 - 🌱 Computer Science
 
 <!--
