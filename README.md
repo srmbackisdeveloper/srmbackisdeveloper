@@ -1,9 +1,8 @@
 ### Hi 👋
 
 - 💬 Syrymbek Zhumazhan
-- 🔭 Golang Backend Developer
-- 🔭 Ex React Frontend Developer
-- 🌱 Computer Science
+- 🔭 Fullstack Developer (Go/Python, React)
+- 🌱 Computer Science, NU
 
 <!--
 Here are some ideas to get you started:
