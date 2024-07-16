@@ -1,6 +1,8 @@
 ### Hi 💨
+
 - 🥋 Fullstack Developer
 - 🌱 Computer Science, NU
+- 
 [![My Skills](https://skillicons.dev/icons?i=go,py,react,nextjs,docker)](https://skillicons.dev)
 <!--
 Here are some ideas to get you started:
