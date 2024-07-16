@@ -1,7 +1,7 @@
 ### Hi 💨
 
 - 🗣️ Syrymbek Zhumazhan
-- 🥋 Fullstack Developer (Go/Python, React)
+- 🥋 Fullstack Developer
 - 🌱 Computer Science, NU
 
 [![My Skills](https://skillicons.dev/icons?i=go,py,react,nextjs,docker)](https://skillicons.dev)
