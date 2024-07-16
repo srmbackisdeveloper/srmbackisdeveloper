@@ -1,4 +1,4 @@
-### Salem / Hi 💨
+### Hi 💨
 
 - 🗣️ Syrymbek Zhumazhan
 - 🥋 Fullstack Developer (Go/Python, React)
