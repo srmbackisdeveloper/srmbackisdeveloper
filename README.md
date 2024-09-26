@@ -1,6 +1,6 @@
 ### Yo, man
 
-- 🥋 Fullstack Developer
+- 🥋 Backend Developer (ex-Frontend)
 - 🌱 Computer Science, NU
 
 [![My Skills](https://skillicons.dev/icons?i=go,py,react,nextjs,docker)](https://skillicons.dev)
