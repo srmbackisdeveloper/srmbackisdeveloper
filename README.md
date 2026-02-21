@@ -1,6 +1,6 @@
-### Yo, man
+### Yo, man!
 
-- 🥋 Backend Developer (ex-Frontend)
+- 🥋 Backend Developer
 - 🌱 Computer Science, Nazarbayev University
 
 [![My Skills](https://skillicons.dev/icons?i=go,py,react,nextjs,docker)](https://skillicons.dev)
